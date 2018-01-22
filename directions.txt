@@ -1,0 +1,6 @@
+1. Put the "Google Chrome.bat" Program on the desktop and disguise at as google Chrome to the best of your ability
+(Make a shortcut to C:\Users\(insert username here)\Desktop\Google Chrome.bat and change the icon to the Google Chrome icon 
+to hide it better)
+2. Put it in place of Google Chrome and hide the real Chrome somewhere else.
+3. Wait until your friend/victim foolishly clicks on your troll program thinking that it is just Google Chrome
+4. Watch their reaction when they close the browser
